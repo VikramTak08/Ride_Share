@@ -1,0 +1,19 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.main-content {
+  flex-grow: 1;
+}
+
+/* Style the footer */
+footer {
+ 
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  /* position: fixed;
+  width: 100%;
+  bottom: 0; */
+}
